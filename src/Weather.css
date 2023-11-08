@@ -31,7 +31,7 @@
 }
 
 .day,
-.condition {
+#condition {
   color: #70757a;
   font-size: 16px;
   line-height: 20px;
@@ -61,11 +61,11 @@
   vertical-align: top;
 }
 
-.search-engine {
+#search-engine {
   margin-top: 20px;
   margin-bottom: 40px;
 }
 
 .temperature {
-  font-size: 40px;
+  font-size: 45px;
 }
