@@ -1,0 +1,22 @@
+.WeatherForecast-temperature-max {
+  color: #202124;
+  display: inline-block;
+  padding-right: 5px;
+}
+
+.WeatherForecast-temperature-min {
+  color: #70757a;
+}
+
+.WeatherForecast {
+  margin-top: 50px;
+  text-align: center;
+  height: 95px;
+  width: 75px;
+}
+
+.WeatherForecast :hover {
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  cursor: pointer;
+}
