@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather />
+        <Weather defaultCity="Seattle" />
         <small>
           <a
             href="https://github.com/beerbumm/weather-app"
