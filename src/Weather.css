@@ -69,3 +69,12 @@
 .temperature {
   font-size: 45px;
 }
+
+#link {
+  text-decoration: none;
+  color: #202124;
+}
+
+#github-link {
+  text-decoration: none;
+}
