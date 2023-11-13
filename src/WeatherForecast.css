@@ -13,9 +13,10 @@
   text-align: center;
   height: 95px;
   width: 75px;
+  display: inline;
 }
 
-.WeatherForecast :hover {
+.col :hover {
   background-color: #f8f9fa;
   border-radius: 10px;
   cursor: pointer;

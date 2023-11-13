@@ -4,6 +4,10 @@
   margin-bottom: 50px;
 }
 
+.WeatherInfo {
+  margin-bottom: 80px;
+}
+
 .weather-info {
   color: #70757a;
   display: inline-block;
