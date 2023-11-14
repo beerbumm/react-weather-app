@@ -43,10 +43,10 @@
 
 .icon {
   display: inline-block;
-  height: 60px;
+  height: 70px;
   margin-top: unset;
   vertical-align: top;
-  width: 60px;
+  width: 70px;
 }
 
 .current-weather {
